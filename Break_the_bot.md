@@ -1,5 +1,4 @@
-# Break-the-Bot
-# BREAK_THE_BOT.md  
+# Break-the-Bot 
 **Project:** Adversarial Testing of Public LLM Chatbots  
 **Author:** Kevin Sohn  
 **Date:** 2026-02-26  
